@@ -1,0 +1,3 @@
+*.js linguist-language=nuiapp,vue.js
+*.css linguist-language=nuiapp,vue.js
+*.html linguist-language=nuiapp,vue.js
